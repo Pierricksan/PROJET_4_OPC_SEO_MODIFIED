@@ -696,12 +696,24 @@ h4 {
     margin-top: 24px;
 }
 
+.size-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.size-banniere {
+    width: 100%;
+    height:40px;
+}
+
 .white {
     color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
+    height: 100%;
 }
 
 .portfolio-row {
